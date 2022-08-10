@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "name": "Damon",
+      "address": "Georgia",
+      "email": "damon05@gmail.com",
+      "contact": "7894563201",
+      "id": 2
+    },
+    {
+      "name": "Stefan",
+      "email": "stefan30@gmail.com",
+      "contact": "9874563210",
+      "address": "Virginia",
+      "id": 4
+    },
+    {
+      "name": "Lorenzo",
+      "email": "theenzo06@gmail.com",
+      "contact": "9443405100",
+      "address": "Mystic falls",
+      "id": 5
+    },
+    {
+      "name": "Elena Gilbert",
+      "email": "elenagilbert01@gmail.com",
+      "contact": "6379103884",
+      "address": "New Orleans",
+      "id": 6
+    },
+    {
+      "name": "Caroline",
+      "email": "carolineforbes0210@gmail.com",
+      "contact": "9994444341",
+      "address": "Whitmore",
+      "id": 8
+    },
+    {
+      "name": "Bonnie ",
+      "email": "bonbon12@gmail.com",
+      "contact": "9080195943",
+      "address": "New York",
+      "id": 9
+    }
+  ]
+}
